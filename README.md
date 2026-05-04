@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Husain Ahmed 👋
 
-<!--
-**Husain00cyber/Husain00cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student (Year 3) at Bahrain Polytechnic
+💻 Interested in cybersecurity and exploring areas such as ethical hacking, network security, and  while continuously learning about modern technology and digital systems.  
+🌐 Passionate about learning how technology works and how to improve security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me
+- Interested in IT, networking, and cloud computing  
+- Exploring different areas in technology and software systems  
+- Always learning and improving technical skills  
+
+---
+
+## 🛠️ Skills
+- Information Technology Basics  
+- Networking Fundamentals  
+- Linux Basics  
+- Programming Basics (Python)  
+
+---
+
+## 🚀 Interests
+Cybersecurity, Information Technology, Networking, Cloud Computing, Software Development, Data Security  
+
+---
+
+## 📫 Contact
+- Email: husain.alahmedd@gmail.com
+- LinkedIn: ( www.linkedin.com/in/husain-ahmed-226273408 )
