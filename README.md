@@ -28,4 +28,6 @@ Cybersecurity, Information Technology, Networking, Cloud Computing, Software Dev
 
 ## 📫 Contact
 - Email: husain.alahmedd@gmail.com
-- [LinkedIn](www.linkedin.com/in/husain-ahmed-226273408)
+- [LinkedIn](https://www.linkedin.com/in/husain-ahmed-226273408)
+
+
