@@ -14,10 +14,11 @@
 ---
 
 ## 🛠️ Skills
-- Information Technology Basics  
+- Information Technology   
 - Networking Fundamentals  
-- Linux Basics  
-- Programming Basics (Python)  
+- Linux  
+- Programming Basics (Python)
+- Digital Power
 
 ---
 
