@@ -1,6 +1,6 @@
 # Hi, I'm Husain Ahmed 👋
 
-🎓 Cybersecurity Student (Year 3) at Bahrain Polytechnic
+🎓 Cybersecurity Student (Year 4) at Bahrain Polytechnic
 💻 Interested in cybersecurity and exploring areas such as ethical hacking, network security, and  while continuously learning about modern technology and digital systems.  
 🌐 Passionate about learning how technology works and how to improve security  
 
@@ -29,6 +29,6 @@ Cybersecurity, Information Technology, Networking, Cloud Computing, Software Dev
 
 ## 📫 Contact
 - Email: husain.alahmedd@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/husain-ahmed-226273408)
+- [LinkedIn](https://www.linkedin.com/in/husainaliahmed)
 
 
