@@ -23,23 +23,23 @@ Senior cybersecurity student focused on enterprise-grade network defense, threat
 
 | Focus Area | Description | Technologies |
 | :--- | :--- | :--- |
-| **Network Threat Detection Lab** | Deployed a 6-container Docker SIEM/IDS environment using Suricata and ELK Stack with 50+ detection rules and automated attack simulations. | Docker, Suricata, ELK Stack, Filebeat |
+| **[Network Threat Detection Lab](https://github.com/Husain00cyber/network-threat-detection-lab)** | Deployed a containerized SIEM/IDS environment using Suricata and ELK Stack with automated attack simulations and custom dashboards. | Docker, Suricata, ELK Stack, Filebeat |
 | **Enterprise Threat Defense** | Engineered simulated network environments featuring Cisco ASAv firewalls and OSPF routing to test network security posture. | EVE-NG, VMware, Cisco ASAv |
 | **Security Programmability** | Automating network security tasks, scripting threat responses, and exploring cloud security frameworks for modern infrastructure. | Python, Linux, Cloud Sec |
 
 ## 🛠️ Tech Stack & Skills
 
-**Networking & Infrastructure**
+**Networking & Infrastructure**  
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-00599C?style=flat&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
-**Security & Systems**
+**Security & Systems**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Programming & Certifications**
+**Programming & Certifications**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)
 ![Pearson](https://img.shields.io/badge/Pearson_Ethical_Hacking-005A9C?style=flat&logoColor=white)
