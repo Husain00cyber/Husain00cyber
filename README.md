@@ -23,9 +23,9 @@ I am a senior cybersecurity student focused on bridging the gap between theoreti
 
 | Focus Area | Description | Technologies |
 | :--- | :--- | :--- |
+| **Network Threat Detection Lab** | Deployed a 6-container Docker SIEM/IDS environment using Suricata and ELK Stack with 50+ detection rules and automated attack simulations. | Docker, Suricata, ELK Stack, Filebeat |
 | **Enterprise Threat Defense** | Engineered simulated network environments featuring Cisco ASAv firewalls and OSPF routing to test network security posture. | EVE-NG, VMware, Cisco ASAv |
 | **Security Programmability** | Automating network security tasks, scripting threat responses, and exploring cloud security frameworks for modern infrastructure. | Python, Linux, Cloud Sec |
-| **Digital Forensics & Hacking** | Investigating system vulnerabilities, analyzing traffic payloads, and understanding attack vectors in isolated sandbox environments. | Kali Linux, Wireshark |
 
 ## 🛠️ Tech Stack & Skills
 
