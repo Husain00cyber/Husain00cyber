@@ -8,16 +8,16 @@
 
 ## 👨‍💻 About Me
 
-I am a senior cybersecurity student focused on bridging the gap between theoretical security concepts and practical, enterprise-grade network defense. From configuring complex routing protocols in simulated environments to implementing modern cloud security frameworks, I am passionate about building and securing resilient systems.
+Senior cybersecurity student focused on enterprise-grade network defense, threat detection, and infrastructure security. Experienced in configuring complex routing protocols, setting up containerized SIEM environments, and implementing modern security frameworks.
 
-* 🔬 **Current Focus:** Deepening expertise in **Cloud Security**, **Digital Forensics**, and **Network & Security Programmability**.
-* 🛠️ **Practical Experience:** Designing and testing enterprise firewall topologies (Cisco ASAv, OSPF) utilizing virtualization platforms like EVE-NG and VMware.
+* 🔬 **Current Focus:** Cloud Security, Digital Forensics, and Network & Security Programmability.
+* 🛠️ **Practical Experience:** Designing and testing firewall topologies (Cisco ASAv, OSPF) on EVE-NG and VMware, alongside building containerized SIEM labs.
 * 📜 **Certifications:** 
-  * **Cisco:** CCNA (Enterprise Networking, Security, and Automation; Switching, Routing, and Wireless Essentials), Network Security[cite: 2].
-  * **Huawei:** Digital Power, Exploring the Intelligent World 2030[cite: 2].
-  * **Pearson:** Ethical Hacking - Cert Prep[cite: 2].
-  * **Bahrain Polytechnic:** Ethical Use of AI Template[cite: 2].
-* ⚡ **Systems & Hardware:** Passionate about low-level hardware optimization, Linux administration, and deploying robust computing infrastructure.
+  * **Cisco:** CCNA (Enterprise Networking, Security, and Automation; Switching, Routing, and Wireless Essentials), Network Security
+  * **Huawei:** Digital Power, Exploring the Intelligent World 2030
+  * **Pearson:** Ethical Hacking - Cert Prep
+  * **Bahrain Polytechnic:** Ethical Use of AI Template
+* ⚡ **Systems & Hardware:** Hardware optimization, Linux administration, and performance tuning.
 
 ## 🚀 Featured Labs & Focus Areas
 
@@ -47,5 +47,5 @@ I am a senior cybersecurity student focused on bridging the gap between theoreti
 ---
 
 ## 📫 Let's Connect
-- **Email:** [husain.alahmedd@gmail.com](mailto:husain.alahmedd@gmail.com)
+- **Email:** husain.alahmedd@gmail.com
 - **LinkedIn:** [Husain Ahmed](https://www.linkedin.com/in/husainaliahmed)
